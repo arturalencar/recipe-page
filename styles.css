@@ -102,7 +102,6 @@ main {
     flex-direction: column;
     justify-content: space-between;
     height: 5rem;
-    /*text-indent: 1rem;*/
     font-size: 1rem;
 }
 
@@ -166,3 +165,4 @@ hr {
     height: 2px;
     background-color: var(--stone-150);
 }
+
